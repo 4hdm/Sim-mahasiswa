@@ -122,20 +122,22 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal k
 
 ## 📸 Dokumentasi Fitur & Tampilan
 1. Dashboard & Analitik
-Menampilkan total statistik data mahasiswa serta sebaran per program studi.
-<img width="1887" height="917" alt="image" src="https://github.com/user-attachments/assets/56d16e74-1d9d-49ee-886b-4fc9df0ac188" />
-
+   Menampilkan total statistik data mahasiswa serta sebaran per program studi.
+   <img width="1887" height="917" alt="image" src="https://github.com/user-attachments/assets/56d16e74-1d9d-49ee-886b-4fc9df0ac188" />
 
 2. Manajemen Data Mahasiswa
-Disengkapi dengan pencarian, filter prodi, serta tombol ekspor laporan ke format PDF.
-
-Detail & Form Input Mahasiswa:
+   Lengkapi dengan pencarian, filter prodi, serta tombol ekspor laporan ke format PDF.
+   Detail & Form Input Mahasiswa:
+   <img width="1902" height="910" alt="image" src="https://github.com/user-attachments/assets/a7868d11-6830-4d36-865b-e991711df66e" />
 
 3. Manajemen Program Studi
-Modul CRUD lengkap untuk pengelolaan data program studi.
+   Modul CRUD lengkap untuk pengelolaan data program studi.
+   <img width="1903" height="912" alt="image" src="https://github.com/user-attachments/assets/fa9e9cc1-a093-4031-8d67-91cbf175c932" />
 
 4. Ekspor Laporan PDF
-Fitur pencetakan rekapitulasi data mahasiswa yang rapi dan siap cetak.
+   Fitur pencetakan rekapitulasi data mahasiswa yang rapi dan siap cetak.
+   <img width="1822" height="863" alt="image" src="https://github.com/user-attachments/assets/c9cbd3eb-3f52-4002-a7b3-8b96693f44af" />
 
 5. Keamanan & Pengaturan Profil
-Fitur manajemen akun pengguna, reset password, serta pembaruan profil yang telah disesuaikan.
+   Fitur manajemen akun pengguna, reset password, serta pembaruan profil yang telah disesuaikan.
+   <img width="1906" height="902" alt="image" src="https://github.com/user-attachments/assets/804c16df-cff0-4a21-a955-dcc95f282e9a" />
