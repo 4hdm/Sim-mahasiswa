@@ -49,6 +49,51 @@ Proyek ini disusun untuk memenuhi tugas **UAS Mata Kuliah Framework Web Developm
 | **Development Server** | PHP 8.x + Artisan |
 
 ---
+<details open>
+<summary><b>⚙️ Fase 1: Inisialisasi & Setup Lingkungan Development</b></summary>
+
+- [x] Inisialisasi proyek baru Laravel.
+- [x] Konfigurasi basis data MySQL & pengaturan file `.env`.
+- [x] Instalasi dan penyetelan starter kit **Laravel Breeze** untuk sistem autentikasi dasar.
+</details>
+
+<details open>
+<summary><b>🗄️ Fase 2: Permodelan Data & Struktur Basis Data</b></summary>
+
+- [x] Desain skema basis data dan pembuatan file *Migration* (`prodis` dan `mahasiswas`).
+- [x] Pembuatan *Model* beserta penentuan relasi `hasMany` dan `belongsTo` antara Program Studi dan Mahasiswa.
+- [x] Pembuatan *Seeder* untuk data awal Program Studi (`ProdiSeeder`).
+</details>
+
+<details open>
+<summary><b>🎮 Fase 3: Pengembangan Logika Bisnis & Interface Utam<b></summary>
+
+- [x] Pembuatan Controller utama: `MahasiswaController`, `ProdiController`, dan `DashboardController`.
+- [x] Pengaturan *Routing* (`routes/web.php`) untuk seluruh endpoint aplikasi.
+- [x] Desain *Layout Utama* dan antarmuka Dashboard Statistik.
+- [x] Implementasi fitur **CRUD Mahasiswa** lengkap dengan form input, pencarian, dan filter per Program Studi.
+- [x] Implementasi fitur **CRUD Program Studi** (Lihat, Tambah, Edit, Detail, Hapus).
+</details>
+
+<details open>
+<summary><b>🔐 Fase 4: Profil Pengguna & Keamanan (Auth)</b></summary>
+
+- [x] Pembuatan `ProfileController` dan views terkait untuk pengaturan akun.
+- [x] Pengujian fitur pembaruan Profil pengguna (Ubah Nama & Email).
+- [x] Pengujian fitur keamanan pembaruan Password.
+- [x] Perbaikan serta konfigurasi aliran *Forgot Password* & *Reset Password*.
+</details>
+
+<details open>
+<summary><b>📄 Fase 5: Fitur Tambahan & Reporting</b></summary>
+
+- [x] Integritas library `barryvdh/laravel-dompdf` untuk fungsi cetak dokumen.
+- [x] Penambahan method PDF pada `MahasiswaController` dan pembuatan layout tampilan cetak.
+- [x] Penambahan tombol **PRINT PDF** pada halaman data mahasiswa.
+- [x] Pengujian akhir seluruh alur sistem (*End-to-End Testing*).
+</details>
+
+---
 
 ## 🗄 Struktur Basis Data
 
@@ -63,6 +108,7 @@ Aplikasi ini menggunakan relasi antar-tabel utama berikut:
 └── created_at/updated_at
 
 ---
+
 
 ## 💻 Panduan Instalasi
 
