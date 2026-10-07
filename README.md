@@ -123,6 +123,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal k
 ## 📸 Dokumentasi Fitur & Tampilan
 1. Dashboard & Analitik
 Menampilkan total statistik data mahasiswa serta sebaran per program studi.
+<img width="1887" height="917" alt="image" src="https://github.com/user-attachments/assets/56d16e74-1d9d-49ee-886b-4fc9df0ac188" />
+
 
 2. Manajemen Data Mahasiswa
 Disengkapi dengan pencarian, filter prodi, serta tombol ekspor laporan ke format PDF.
