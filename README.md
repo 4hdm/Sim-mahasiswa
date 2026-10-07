@@ -60,3 +60,14 @@ Aplikasi ini menggunakan relasi antar-tabel utama berikut:
 └── created_at/updated_at       ├── prodi_id (FK)
 ├── email
 └── created_at/updated_at
+
+---
+
+## 💻 Panduan Instalasi
+
+Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal kamu:
+
+1. **Clone Repositori**
+   ```bash
+   git clone [https://github.com/username/SIM-Mahasiswa.git](https://github.com/username/SIM-Mahasiswa.git)
+   cd SIM-Mahasiswa
