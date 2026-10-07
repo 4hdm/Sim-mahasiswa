@@ -117,8 +117,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal k
 
 1. **Clone Repositori**
    ```bash
-   git clone [https://github.com/username/SIM-Mahasiswa.git](https://github.com/username/SIM-Mahasiswa.git)
-   cd SIM-Mahasiswa
+   [git clone [https://github.com/username/SIM-Mahasiswa.git](https://github.com/username/SIM-Mahasiswa.git)
+   cd SIM-Mahasiswa](https://github.com/dm1893221-glitch/Framework-SIM-Mahasiswa/blob/main/README.md)
 
 ## 📸 Dokumentasi Fitur & Tampilan
 1. Dashboard & Analitik
