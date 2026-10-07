@@ -71,3 +71,21 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal k
    ```bash
    git clone [https://github.com/username/SIM-Mahasiswa.git](https://github.com/username/SIM-Mahasiswa.git)
    cd SIM-Mahasiswa
+
+## 📸 Dokumentasi Fitur & Tampilan
+1. Dashboard & Analitik
+Menampilkan total statistik data mahasiswa serta sebaran per program studi.
+
+2. Manajemen Data Mahasiswa
+Disengkapi dengan pencarian, filter prodi, serta tombol ekspor laporan ke format PDF.
+
+Detail & Form Input Mahasiswa:
+
+3. Manajemen Program Studi
+Modul CRUD lengkap untuk pengelolaan data program studi.
+
+4. Ekspor Laporan PDF
+Fitur pencetakan rekapitulasi data mahasiswa yang rapi dan siap cetak.
+
+5. Keamanan & Pengaturan Profil
+Fitur manajemen akun pengguna, reset password, serta pembaruan profil yang telah disesuaikan.
