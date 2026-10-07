@@ -7,6 +7,7 @@
     <a href="#-tentang-proyek">Tentang Proyek</a> •
     <a href="#-fitur-utama">Fitur Utama</a> •
     <a href="#-arsitektur--teknologi">Teknologi</a> •
+    <a href="#-perjalanan--progress-pengerjaan">Progress</a> •
     <a href="#-struktur-basis-data">Database</a> •
     <a href="#-panduan-instalasi">Instalasi</a> •
     <a href="#-dokumentasi-fitur--tampilan">Tampilan</a>
