@@ -97,15 +97,16 @@ Proyek ini disusun untuk memenuhi tugas **UAS Mata Kuliah Framework Web Developm
 
 ## 🗄 Struktur Basis Data
 
-Aplikasi ini menggunakan relasi antar-tabel utama berikut:
-[ Program Studi ] (1) <---> (N) [ Mahasiswa ]
-│                               │
-├── id                          ├── id
-├── kode_prodi                  ├── nim
-├── nama_prodi                  ├── nama
-└── created_at/updated_at       ├── prodi_id (FK)
-├── email
-└── created_at/updated_at
+### 🗄️ Skema & Relasi Basis Data
+
+| **Tabel: Program Studi** `(1)` | **Tabel: Mahasiswa** `(N)` |
+| :--- | :--- |
+| `id` *(Primary Key)* | `id` *(Primary Key)* |
+| `kode_prodi` | `nim` |
+| `nama_prodi` | `nama` |
+| `created_at` / `updated_at` | `prodi_id` *(Foreign Key ➔ prodi.id)* |
+| | `email` |
+| | `created_at` / `updated_at` |
 
 ---
 
