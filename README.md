@@ -254,7 +254,7 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
 
 ## 🎓 Ucapan Terima Kasih & Penutup
 
-Terima kasih kepada Dosen Pengampu, Civitas Akademika **STITEK Bontang**, serta seluruh pihak yang telah mendukung terselesaikannya pengembangan **Sistem Informasi Manajemen Mahasiswa** ini.
+Terima kasih kepada Dosen Pengampu dan seluruh pihak yang telah mendukung terselesaikannya pengembangan **Sistem Informasi Manajemen Mahasiswa** ini.
 
 Semoga aplikasi ini bermanfaat dan dapat menjadi referensi pengembangan aplikasi web berbasis Laravel selanjutnya!
 
