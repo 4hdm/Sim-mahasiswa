@@ -157,12 +157,12 @@ erDiagram
 Berikut adalah gambaran antarmuka dari aplikasi **SIM Mahasiswa**:
 
 | 📊 Dashboard (Light Mode) | 📝 Data Mahasiswa | 📄 Program Studi | 👥 Profile |
-| :---: | :---: || :---: | :---: |
+| :---: | :---: |
 | <img src="public/img/preview/dashboard-light.png" width="100%" alt="Dashboard Light"> | <img src="public/img/preview/dashboard-dark.png" width="100%" alt="Dashboard Dark"> |<img src="public/img/preview/dashboard-light.png" width="100%" alt="Dashboard Light"> | <img src="public/img/preview/dashboard-dark.png" width="100%" alt="Dashboard Dark"> |
 | *Tampilan ringkasan statistik data mahasiswa.* | *Nuansa Crimson Dark Mode yang nyaman di mata.* |*Tampilan ringkasan statistik data mahasiswa.* | *Nuansa Crimson Dark Mode yang nyaman di mata.* |
 
 | 🌙 Dashboard (Dark Mode) | 📝 Data Mahasiswa | 📄 Program Studi | 👥 Profile |
-| :---: | :---: || :---: | :---: |
+| :---: | :---: |
 | <img src="public/img/preview/form-mahasiswa.png" width="100%" alt="Form Mahasiswa"> | <img src="public/img/preview/detail-mahasiswa.png" width="100%" alt="Detail Mahasiswa"> | <img src="public/img/preview/form-mahasiswa.png" width="100%" alt="Form Mahasiswa"> | <img src="public/img/preview/detail-mahasiswa.png" width="100%" alt="Detail Mahasiswa"> |
 | *Form interaktif dengan toggle status keaktifan.* | *Informasi lengkap mahasiswa beserta badge status.* | *Form interaktif dengan toggle status keaktifan.* | *Informasi lengkap mahasiswa beserta badge status.* |
 
