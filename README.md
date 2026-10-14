@@ -114,3 +114,46 @@ erDiagram
 
     prodis ||--o{ mahasiswas : "memiliki"
 ```
+
+
+## 📝 Kode Lengkap Tambahan (Tinggal Paste)
+
+Anda bisa langsung menyalin blok Markdown di bawah ini dan menempelkannya tepat di bawah bagian **Struktur Database**:
+
+```markdown
+
+## 🛣️ Alur Rute (Key Routes)
+
+| Method | URI | Controller Action | Keterangan |
+| :--- | :--- | :--- | :--- |
+| `GET` | `/mahasiswa` | `MahasiswaController@index` | Menampilkan daftar mahasiswa + Filter/Search |
+| `GET` | `/mahasiswa/create` | `MahasiswaController@create` | Form tambah data mahasiswa |
+| `POST` | `/mahasiswa` | `MahasiswaController@store` | Menyimpan data mahasiswa baru |
+| `GET` | `/mahasiswa/{id}` | `MahasiswaController@show` | Detail informasi mahasiswa & badge status |
+| `GET` | `/mahasiswa/{id}/edit` | `MahasiswaController@edit` | Form edit data mahasiswa |
+| `PUT` | `/mahasiswa/{id}` | `MahasiswaController@update` | Memperbarui data mahasiswa |
+| `DELETE` | `/mahasiswa/{id}` | `MahasiswaController@destroy` | Menghapus data mahasiswa |
+| `GET` | `/mahasiswa/pdf` | `MahasiswaController@pdf` | Cetak/Stream dokumen laporan PDF |
+
+---
+
+## 🛡️ Keamanan & Optimasi
+
+- **CSRF Protection**: Seluruh form input dilindungi dengan token `@csrf` bawaan Laravel.
+- **SQL Injection Prevention**: Menggunakan Eloquent ORM & Prepared Statements untuk mencegah eksekusi query berbahaya.
+- **Form Input Validation**: Validasi ketat di sisi server (keunikan NIM, format email, dll).
+- **Responsive Breakpoints**: Layout telah diuji dan responsif di berbagai resolusi layar.
+
+---
+
+## 📌 Rencana Pengembangan (Roadmap)
+
+- [x] CRUD Mahasiswa & Program Studi
+- [x] Adaptive Dark Mode dengan CSS Variables & LocalStorage
+- [x] Dynamic Status Switch (Aktif / Tidak Aktif)
+- [x] Export Laporan PDF (DomPDF)
+- [ ] Export Data ke Excel / CSV
+- [ ] Multi-Role Authentication (Admin, Dosen, Mahasiswa)
+- [ ] Import Massal Data Mahasiswa via Excel
+
+```
