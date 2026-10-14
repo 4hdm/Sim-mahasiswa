@@ -218,9 +218,9 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 1"><br><br>
-      <b>Danis martanius/202412000</b><br>
+      <b>Danis martanius/202412035</b><br>
       <sub>database support</sub><br><br>
-      <a href="https://github.com/username">
+      <a href=["https://github.com/username"](https://github.com/dm1893221-glitch)>
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
       <br><br>
@@ -228,9 +228,9 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 2"><br><br>
-      <b>Muh. Nabil Abdillah</b><br>
+      <b>Muh. Nabil Abdillah/202412053</b><br>
       <sub>UI/UX & Frontend support</sub><br><br>
-      <a href="https://github.com/username2">
+      <a href=["https://github.com/username2"](https://github.com/MuhammadNabilAbdillah)>
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
       <br><br>
