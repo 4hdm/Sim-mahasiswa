@@ -42,5 +42,5 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer loka
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username/sim-mahasiswa.git](https://github.com/username/sim-mahasiswa.git)
+   https://github.com/dm1893221-glitch/Framework-SIM-Mahasiswa
    cd sim-mahasiswa
