@@ -164,12 +164,12 @@ Berikut adalah gambaran antarmuka dari aplikasi **SIM Mahasiswa**:
 
 | 📊 Dashboard (Light) | 📄 Data Mahasiswa (Light) |
 | :---: | :---: |
-| <img src="public/img/preview/dashboard-light.png" width="100%" alt="Dashboard Light"> | <img src="public/img/preview/mahasiswa-light.png" width="100%" alt="Data Mahasiswa Light"> |
+|<img width="1886" height="912" alt="Cuplikan layar 2026-10-14 144415" src="https://github.com/user-attachments/assets/df8ea3e0-387c-4bf4-8fa2-278259dca312" /> | <img width="1892" height="911" alt="Cuplikan layar 2026-10-14 144430" src="https://github.com/user-attachments/assets/80b633cd-2ab4-4d0e-98a4-9d82703a4c34" /> |
 | *Tampilan ringkasan statistik data mahasiswa.* | *Tabel data mahasiswa & filter program studi.* |
 
 | 🏫 Program Studi (Light) | 👤 Profile (Light) |
 | :---: | :---: |
-| <img src="public/img/preview/prodi-light.png" width="100%" alt="Program Studi Light"> | <img src="public/img/preview/profile-light.png" width="100%" alt="Profile Light"> |
+| <img width="1908" height="906" alt="Cuplikan layar 2026-10-14 144438" src="https://github.com/user-attachments/assets/4fc0ef0b-4119-4ae3-9be6-a7eb2facfc3a" /> | <img width="1911" height="908" alt="Cuplikan layar 2026-10-14 144445" src="https://github.com/user-attachments/assets/9707e9c9-8c82-4753-a4e9-120831e91fde" /> |
 | *Kelola data program studi & fakultas.* | *Pengaturan profil administrator.* |
 
 ---
@@ -178,12 +178,12 @@ Berikut adalah gambaran antarmuka dari aplikasi **SIM Mahasiswa**:
 
 | 📊 Dashboard (Dark) | 📄 Data Mahasiswa (Dark) |
 | :---: | :---: |
-| <img src="public/img/preview/dashboard-dark.png" width="100%" alt="Dashboard Dark"> | <img src="public/img/preview/mahasiswa-dark.png" width="100%" alt="Data Mahasiswa Dark"> |
+| <img width="1878" height="915" alt="Cuplikan layar 2026-10-14 144456" src="https://github.com/user-attachments/assets/2cb518f3-434b-4990-926d-2d7ac98fe470" /> | <img width="1885" height="902" alt="Cuplikan layar 2026-10-14 144504" src="https://github.com/user-attachments/assets/744f41e6-c82f-4942-a942-8ba67d8c07a7" /> |
 | *Nuansa Crimson Dark Mode yang nyaman di mata.* | *Daftar data mahasiswa dalam mode gelap.* |
 
 | 🏫 Program Studi (Dark) | 👤 Profile (Dark) |
 | :---: | :---: |
-| <img src="public/img/preview/prodi-dark.png" width="100%" alt="Program Studi Dark"> | <img src="public/img/preview/profile-dark.png" width="100%" alt="Profile Dark"> |
+| <img width="1908" height="902" alt="Cuplikan layar 2026-10-14 144512" src="https://github.com/user-attachments/assets/06f7b07c-fe05-4858-864b-32404a3cc4c7" /> | <img width="1895" height="908" alt="Cuplikan layar 2026-10-14 144519" src="https://github.com/user-attachments/assets/63b9b805-d1bc-46ba-bf92-3c7c2ab6dc0a" /> |
 | *Tampilan program studi mode gelap.* | *Halaman profil dengan tema adaptif.* |
 ---
 
