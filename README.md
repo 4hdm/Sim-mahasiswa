@@ -114,15 +114,9 @@ erDiagram
 
     prodis ||--o{ mahasiswas : "memiliki"
 ```
+---
 
-
-## 📝 Kode Lengkap Tambahan (Tinggal Paste)
-
-Anda bisa langsung menyalin blok Markdown di bawah ini dan menempelkannya tepat di bawah bagian **Struktur Database**:
-
-```markdown
-
-## 🛣️ Alur Rute (Key Routes)
+## 🛣️ Alur Rute & Navigasi (Key Routes)
 
 | Method | URI | Controller Action | Keterangan |
 | :--- | :--- | :--- | :--- |
@@ -141,8 +135,8 @@ Anda bisa langsung menyalin blok Markdown di bawah ini dan menempelkannya tepat 
 
 - **CSRF Protection**: Seluruh form input dilindungi dengan token `@csrf` bawaan Laravel.
 - **SQL Injection Prevention**: Menggunakan Eloquent ORM & Prepared Statements untuk mencegah eksekusi query berbahaya.
-- **Form Input Validation**: Validasi ketat di sisi server (keunikan NIM, format email, dll).
-- **Responsive Breakpoints**: Layout telah diuji dan responsif di berbagai resolusi layar.
+- **Form Input Validation**: Validasi ketat di sisi server menggunakan `FormRequest` / `Validator` (seperti keunikan NIM, opsi enum jenis kelamin, dan format email).
+- **Responsive Breakpoints**: Layout telah diuji dan responsif di berbagai resolusi layar (Desktop, Tablet, Mobile).
 
 ---
 
@@ -155,5 +149,3 @@ Anda bisa langsung menyalin blok Markdown di bawah ini dan menempelkannya tepat 
 - [ ] Export Data ke Excel / CSV
 - [ ] Multi-Role Authentication (Admin, Dosen, Mahasiswa)
 - [ ] Import Massal Data Mahasiswa via Excel
-
-```
