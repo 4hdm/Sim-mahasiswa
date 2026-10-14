@@ -156,16 +156,35 @@ erDiagram
 
 Berikut adalah gambaran antarmuka dari aplikasi **SIM Mahasiswa**:
 
-| 📊 Dashboard (Light Mode) | 📝 Data Mahasiswa | 📄 Program Studi | 👥 Profile |
-| :---: | :---: |
-| <img src="public/img/preview/dashboard-light.png" width="100%" alt="Dashboard Light"> | <img src="public/img/preview/dashboard-dark.png" width="100%" alt="Dashboard Dark"> |<img src="public/img/preview/dashboard-light.png" width="100%" alt="Dashboard Light"> | <img src="public/img/preview/dashboard-dark.png" width="100%" alt="Dashboard Dark"> |
-| *Tampilan ringkasan statistik data mahasiswa.* | *Nuansa Crimson Dark Mode yang nyaman di mata.* |*Tampilan ringkasan statistik data mahasiswa.* | *Nuansa Crimson Dark Mode yang nyaman di mata.* |
+## 📸 Preview & Galeri Tampilan
 
-| 🌙 Dashboard (Dark Mode) | 📝 Data Mahasiswa | 📄 Program Studi | 👥 Profile |
-| :---: | :---: |
-| <img src="public/img/preview/form-mahasiswa.png" width="100%" alt="Form Mahasiswa"> | <img src="public/img/preview/detail-mahasiswa.png" width="100%" alt="Detail Mahasiswa"> | <img src="public/img/preview/form-mahasiswa.png" width="100%" alt="Form Mahasiswa"> | <img src="public/img/preview/detail-mahasiswa.png" width="100%" alt="Detail Mahasiswa"> |
-| *Form interaktif dengan toggle status keaktifan.* | *Informasi lengkap mahasiswa beserta badge status.* | *Form interaktif dengan toggle status keaktifan.* | *Informasi lengkap mahasiswa beserta badge status.* |
+Berikut adalah gambaran antarmuka dari aplikasi **SIM Mahasiswa**:
 
+### ☀️ Light Mode
+
+| 📊 Dashboard (Light) | 📄 Data Mahasiswa (Light) |
+| :---: | :---: |
+| <img src="public/img/preview/dashboard-light.png" width="100%" alt="Dashboard Light"> | <img src="public/img/preview/mahasiswa-light.png" width="100%" alt="Data Mahasiswa Light"> |
+| *Tampilan ringkasan statistik data mahasiswa.* | *Tabel data mahasiswa & filter program studi.* |
+
+| 🏫 Program Studi (Light) | 👤 Profile (Light) |
+| :---: | :---: |
+| <img src="public/img/preview/prodi-light.png" width="100%" alt="Program Studi Light"> | <img src="public/img/preview/profile-light.png" width="100%" alt="Profile Light"> |
+| *Kelola data program studi & fakultas.* | *Pengaturan profil administrator.* |
+
+---
+
+### 🌙 Dark Mode
+
+| 📊 Dashboard (Dark) | 📄 Data Mahasiswa (Dark) |
+| :---: | :---: |
+| <img src="public/img/preview/dashboard-dark.png" width="100%" alt="Dashboard Dark"> | <img src="public/img/preview/mahasiswa-dark.png" width="100%" alt="Data Mahasiswa Dark"> |
+| *Nuansa Crimson Dark Mode yang nyaman di mata.* | *Daftar data mahasiswa dalam mode gelap.* |
+
+| 🏫 Program Studi (Dark) | 👤 Profile (Dark) |
+| :---: | :---: |
+| <img src="public/img/preview/prodi-dark.png" width="100%" alt="Program Studi Dark"> | <img src="public/img/preview/profile-dark.png" width="100%" alt="Profile Dark"> |
+| *Tampilan program studi mode gelap.* | *Halaman profil dengan tema adaptif.* |
 ---
 
 ## 👥 Tim Kontributor
