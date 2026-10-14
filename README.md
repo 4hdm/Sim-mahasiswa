@@ -198,7 +198,7 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 1"><br><br>
-      <b>[Nama Anda]</b><br>
+      <b>Ahdam Ashari/202412039</b><br>
       <sub>Fullstack Developer</sub><br><br>
       <a href="https://github.com/username">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
@@ -208,8 +208,8 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 1"><br><br>
-      <b>[Nama Anda]</b><br>
-      <sub>Fullstack Developer</sub><br><br>
+      <b>Fiky Anggara S.Kom, M.Kom</b><br>
+      <sub>Dosen pengampu</sub><br><br>
       <a href="https://github.com/username">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
@@ -218,8 +218,8 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 1"><br><br>
-      <b>[Nama Anda]</b><br>
-      <sub>Fullstack Developer</sub><br><br>
+      <b>Danis martanius/202412000</b><br>
+      <sub>database support</sub><br><br>
       <a href="https://github.com/username">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
@@ -228,8 +228,8 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 2"><br><br>
-      <b>[Nama Anggota 2]</b><br>
-      <sub>UI/UX & Frontend</sub><br><br>
+      <b>Muh. Nabil Abdillah</b><br>
+      <sub>UI/UX & Frontend support</sub><br><br>
       <a href="https://github.com/username2">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
@@ -238,8 +238,8 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 3"><br><br>
-      <b>[Nama Anggota 3]</b><br>
-      <sub>Database Specialist</sub><br><br>
+      <b>Gelvi Lopariza Layuk</b><br>
+      <sub>UI/UX & Frontend support</sub><br><br>
       <a href="https://github.com/username3">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
