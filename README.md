@@ -200,7 +200,7 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 1"><br><br>
       <b>Ahdam Ashari/202412039</b><br>
       <sub>Fullstack Developer</sub><br><br>
-      <a href="https://github.com/username">
+      <a href=["https://github.com/username"](https://github.com/fiky-web)>
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
       </a>
       <br><br>
