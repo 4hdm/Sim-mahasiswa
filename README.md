@@ -74,10 +74,13 @@ sim-mahasiswa/
 │       └── prodi/                       # Views Program Studi
 └── routes/
     └── web.php                          # Konfigurasi rute aplikasi web
-
-
+```
 
 ## 🗄️ Struktur Database (Database Schema & Relasi)
+
+Berikut adalah diagram relasi dan struktur tabel database dalam aplikasi ini:
+
+```mermaid
 erDiagram
     users {
         bigint id PK
@@ -110,3 +113,4 @@ erDiagram
     }
 
     prodis ||--o{ mahasiswas : "memiliki"
+```
