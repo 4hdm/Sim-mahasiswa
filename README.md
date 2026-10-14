@@ -238,7 +238,7 @@ Proyek ini dikembangkan dengan dedikasi dan kerja sama tim oleh mahasiswa **Seko
     <td align="center" width="200px">
       <br>
       <img src="https://github.com/github.png" width="80px" style="border-radius:50%;" alt="Foto Developer 3"><br><br>
-      <b>Gelvi Lopariza Layuk</b><br>
+      <b>Gelvi Lopariza Layuk/202412048</b><br>
       <sub>UI/UX & Frontend support</sub><br><br>
       <a href="https://github.com/username3">
         <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github">
