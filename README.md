@@ -44,3 +44,69 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di komputer loka
    ```bash
    https://github.com/dm1893221-glitch/Framework-SIM-Mahasiswa
    cd sim-mahasiswa
+
+   <div align="center">
+
+---
+
+## 📁 Struktur Aplikasi (Directory Structure)
+
+Berikut adalah ringkasan struktur direktori utama dari proyek ini:
+
+```text
+sim-mahasiswa/
+├── app/
+│   ├── Http/
+│   │   └── Controllers/
+│   │       ├── MahasiswaController.php  # Mengelola logika CRUD & cetak PDF Mahasiswa
+│   │       └── ProdiController.php      # Mengelola data Program Studi
+│   └── Models/
+│       ├── Mahasiswa.php                # Model relasi Mahasiswa ke Prodi
+│       └── Prodi.php                    # Model relasi Prodi
+├── database/
+│   ├── migrations/                      # Skema tabel database
+│   └── seeders/                         # Data dummy awal aplikasi
+├── resources/
+│   └── views/
+│       ├── layouts/
+│       │   └── app.blade.php            # Layout utama, Sidebar, Topbar, & Dark Mode
+│       ├── mahasiswa/                   # Views (index, create, edit, show, pdf)
+│       └── prodi/                       # Views Program Studi
+└── routes/
+    └── web.php                          # Konfigurasi rute aplikasi web
+
+
+
+## 🗄️ Struktur Database (Database Schema & Relasi)
+erDiagram
+    users {
+        bigint id PK
+        varchar name
+        varchar email
+        varchar password
+        timestamp timestamps
+    }
+
+    prodis {
+        bigint id PK
+        varchar kode_prodi
+        varchar nama_prodi
+        varchar fakultas
+        timestamp timestamps
+    }
+
+    mahasiswas {
+        bigint id PK
+        varchar nim
+        varchar nama
+        bigint prodi_id FK
+        enum jenis_kelamin
+        date tanggal_lahir
+        varchar telepon
+        varchar email
+        text alamat
+        enum status
+        timestamp timestamps
+    }
+
+    prodis ||--o{ mahasiswas : "memiliki"
